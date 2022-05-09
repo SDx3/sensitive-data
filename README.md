@@ -1,2 +1,2 @@
 # sensitive-data
-Crowdsec sensitive data file
+These files are the source of some custom Crowdsec filters.
