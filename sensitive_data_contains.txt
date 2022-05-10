@@ -1,2 +1,6 @@
 .well-known/acme-challenge
 wp-admin
+wp-content
+wp-includes
+wp-plain
+wp-login
