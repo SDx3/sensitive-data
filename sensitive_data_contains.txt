@@ -4,3 +4,17 @@ wp-content
 wp-includes
 wp-plain
 wp-login
+mgmt/shared/authn/logi
+vendor/phpunit/phpunit
+actuator/gateway/routes
+cgi-bin/
+hudson
+ReportServer
+_ignition
+Autodiscover
+console
+weerjbeb.php
+XDEBUG_SESSION_START
+fzlugtkn.php
+tmui/login.jsp
+vod_installer
